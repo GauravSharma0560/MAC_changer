@@ -8,14 +8,14 @@ To Change the MAC address of the connection until the connection fails.
 
 ### Usage
 ```
-git clone https://github.com/EngineerRancho/MAC_changer
+git clone https://github.com/GauravSharma0560/MAC_changer
 cd MAC_changer
 sudo su
 python MAC_changer.py
 ```
 ## or
 ```
-git clone https://github.com/EngineerRancho/MAC_changer
+git clone https://github.com/GauravSharma0560/MAC_changer
 cd MAC_changer
 sudo su
 python3 MAC_Changer_Parsing.py -i [interface] -m [New MAC address]
